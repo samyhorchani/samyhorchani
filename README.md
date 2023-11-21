@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-Samy%20Horchani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samyhorchani/)](https://www.linkedin.com/in/samyhorchani/)
 
-- 🌱 I’m currently learning Computer Science and Mechanical Engineering :)
+- 🌱 I’m currently learning Cryptology, High Performance Computing, Quantum Computing and Algorithmics :)
 - 📫 How to reach me: my [email adress](mailto:samy.horchani@etu.sorbonne-universite.fr)
 - ⚡ Fun fact: I love astronomy and reading dystopian books !
