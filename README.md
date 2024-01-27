@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Cryptology, High Performance Computing, Quantum Computing and Algorithmic :)
 - 📫 How to reach me: my [email adress](mailto:samy.horchani@etu.sorbonne-universite.fr)
-- ⚡ Fun fact: I love astronomy and reading dystopian books !
+- ⚡ I love astronomy and reading dystopian books !
